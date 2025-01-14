@@ -1,2 +1,2 @@
-# ishitham-creative-engineering.github.io
+# Ishitham Creative Engineering
 Ishitham Creative Engineering portfolio/dev notes
